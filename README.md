@@ -1,5 +1,5 @@
 # 필수 라이브러리
-> Discord, Asyncio, Datetime
+> Discord, Asyncio, Datetime (시간(날짜)기능 미사용시 불필요)
 
 # 기본 접두사 및 명령어
 > 접두사 : `.`
